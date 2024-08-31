@@ -22,8 +22,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add your solution URL here](https://jan-dev0.github.io/QR-code-component/)
 
 ## My Process
 
@@ -33,3 +32,7 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 - CSS custom properties (variables)
 - Flexbox
 - Mobile-first workflow
+
+## Author
+
+- Frontend Mentor - [@Jan-Dev0](https://www.frontendmentor.io/profile/Jan-Dev0)
