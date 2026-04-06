@@ -1,12 +1,12 @@
+/* Import the Outfit font */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+
 /* General reset for margin and padding */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-
-/* Import the Outfit font */
-@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
 
 /* CSS variables for the project */
 :root {
@@ -18,7 +18,7 @@
 
 /* Basic styles for the body */
 body {
-  font-family: 'Outfit', sans-serif;
+  font-family: "Outfit", sans-serif;
   color: var(--grayish-blue);
   background-color: var(--light-gray);
   display: flex;
@@ -27,22 +27,12 @@ body {
   min-height: 100vh;
 }
 
-/* Styling the container */
-.container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-
 /* Styling the content */
 .content {
   background-color: var(--white);
   border-radius: 20px;
   padding: 15px;
   text-align: center;
-  max-width: 100%;
   width: 320px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -62,6 +52,7 @@ body {
 .content p {
   color: var(--grayish-blue);
   margin-bottom: 20px;
+  font-size: 0.9375;
 }
 
 /* Attribution styling */
