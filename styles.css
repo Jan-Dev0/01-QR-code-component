@@ -52,7 +52,7 @@ body {
 .content p {
   color: var(--grayish-blue);
   margin-bottom: 20px;
-  font-size: 0.9375;
+  font-size: 0.9375rem;
 }
 
 /* Attribution styling */
